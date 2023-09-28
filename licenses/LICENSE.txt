@@ -1,0 +1,1 @@
+a fake license file to go by the good practices of nuget packages upload rules
